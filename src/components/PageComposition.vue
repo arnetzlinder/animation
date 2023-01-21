@@ -39,9 +39,9 @@ export default {
 
 <style lang="scss" scoped>
 .animationDiv {
-    width: 70%;
+    width: 80%;
     height: auto;
-    margin-left: 10rem;
+    margin-left: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
