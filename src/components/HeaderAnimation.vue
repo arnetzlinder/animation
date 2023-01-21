@@ -1,6 +1,6 @@
 <template>
     <header>
-        <img src="../../hearts.jpg" />
+        <img src="../../public/hearts.jpg" />
         <div class="button-holder">
             <AnimationButton />
         </div>
